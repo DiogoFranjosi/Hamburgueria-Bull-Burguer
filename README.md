@@ -8,24 +8,19 @@
  
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## 🍣 OISHI - Japonese food
-Bem-vindo ao OISHI, um site desenvolvido para apresentar a experiência única de um autêntico restaurante japonês. Este projeto reúne tradição e modernidade em um ambiente digital intuitivo e elegante.
+## 🍣 Bull Burguer - Hmaburgueria
+O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online para os clientes. Ele possui um design moderno e responsivo, utilizando Tailwind CSS para o estilo e Font Awesome para ícones.
 
 ## 🌟 Funcionalidades
-- Conheça a história e a essência do OISHI.
-
-- Explore nossos pratos deliciosos com descrições detalhadas.
-
-- Agende sua refeição com facilidade.
-
-- Encontre-nos rapidamente e venha viver essa experiência!
-
-Este projeto foi desenvolvido com foco na experiência do usuário, trazendo um design responsivo e navegação fluída. Sinta-se à vontade para explorar e contribuir! 🚀
+✅ Exibição do Cardápio: Lista de hambúrgueres com imagens, descrições e preços.
+✅ Carrinho de Compras: Opção de adicionar itens ao carrinho.
+✅ Informações do Restaurante: Nome, endereço e destaque para o "melhor hambúrguer da região".
+✅ Efeito de Destaque: O layout inclui efeitos visuais, como hover em imagens e botões.
 
 ## 📝 OBSERVAÇÕES
 
