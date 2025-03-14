@@ -25,7 +25,9 @@ O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online pa
 ## 📝 OBSERVAÇÕES
 
 - O projeto não tem conexão com o Banco de Dados.
-- A criação desse restaurante é fictícia.
+- A criação desse site é fictícia.
+
+## Conheça o site acessando o link - https://hamburgueria-bull-burguer.vercel.app/
 
  <a href="https://instagram.com/_diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
