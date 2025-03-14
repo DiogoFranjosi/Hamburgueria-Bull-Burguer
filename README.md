@@ -14,7 +14,7 @@
 </div>
 
 ## 🍔 Bull Burguer - Hamburgueria
-O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online para os clientes. Ele possui um design moderno e responsivo, utilizando Tailwind CSS para o estilo e Font Awesome para ícones.
+O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online para os clientes. Ele possui um design moderno e responsivo, utilizando Tailwind CSS para o estilo.
 
 ## 🌟 Funcionalidades
 ✅ Exibição do Cardápio: Lista de hambúrgueres com imagens, descrições e preços.
