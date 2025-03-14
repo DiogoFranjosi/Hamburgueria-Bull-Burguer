@@ -13,7 +13,7 @@
   <img align="center" alt="diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## 🍣 Bull Burguer - Hmaburgueria
+## 🍔 Bull Burguer - Hmaburgueria
 O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online para os clientes. Ele possui um design moderno e responsivo, utilizando Tailwind CSS para o estilo e Font Awesome para ícones.
 
 ## 🌟 Funcionalidades
