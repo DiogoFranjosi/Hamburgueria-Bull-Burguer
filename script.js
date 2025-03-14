@@ -144,7 +144,7 @@ checkoutBtn.addEventListener("click", function(){
  if(!isOpen){
      
      Toastify({
-         text: "Ops, o restaurante está fechado, Venha mais tarde!",
+         text: "Ops, o restaurante está fechado. No momento não estamos atendendo, Venha mais tarde!",
          duration: 3000,
          close: true,
          gravity: "top", // `top` or `bottom`
