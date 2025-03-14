@@ -18,8 +18,11 @@ O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online pa
 
 ## 🌟 Funcionalidades
 ✅ Exibição do Cardápio: Lista de hambúrgueres com imagens, descrições e preços.
+
 ✅ Carrinho de Compras: Opção de adicionar itens ao carrinho.
+
 ✅ Informações do Restaurante: Nome, endereço e destaque para o "melhor hambúrguer da região".
+
 ✅ Efeito de Destaque: O layout inclui efeitos visuais, como hover em imagens e botões.
 
 ## 📝 OBSERVAÇÕES
@@ -28,6 +31,10 @@ O Bull Burguer é um site de uma hamburgueria que oferece um cardápio online pa
 - A criação desse site é fictícia.
 
 ## Conheça o site acessando o link - https://hamburgueria-bull-burguer.vercel.app/
+
+## Autor
+
+Desenvolvido por Diogo Franjosi - [Github](https://github.com/DiogoFranjosi)
 
  <a href="https://instagram.com/_diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/diogofranjosi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
